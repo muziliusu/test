@@ -1,3 +1,4 @@
 git add 文件名称
 git commit -m "文件名称"
 git push -u origin main
+你没有闪管我屁事呀
